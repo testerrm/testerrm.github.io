@@ -311,6 +311,11 @@ h6 {
   .navbar ul {
     display: none;
   }
+
+  .navbar-mobile-title {
+    font-size: 0.3em;
+  }
+
 }
 
 .navbar-mobile {
@@ -1049,7 +1054,7 @@ section {
 # Events
 --------------------------------------------------------------*/
 .events {
-  background: url(../img/events-bg.jpg) center center no-repeat;
+  background: url(../img/events-bg.png) center center no-repeat;
   background-size: cover;
   position: relative;
 }
